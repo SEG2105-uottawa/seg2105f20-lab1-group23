@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 Matthew
-=======
 Tom
 Steven
->>>>>>> de8dc56f341db823b96bcf6eea36c56c21cbea20
